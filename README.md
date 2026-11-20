@@ -93,7 +93,7 @@ I also work with Microsoft Excel to organize data, analyze information, and crea
 <!-- Upload your dashboard screenshot to the images folder in your GitHub repository -->
 
 <p align="center">
-<img src="images/excel-dashboard.png" alt="Microsoft Excel Dashboard" width="100%">
+<img src="a1.jpeg" alt="Microsoft Excel Dashboard" width="100%">
 </p>
 
 🛠️ Tool: Microsoft Excel
